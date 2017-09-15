@@ -1,1 +1,0 @@
-Genetic algorithm in R
